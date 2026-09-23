@@ -1,0 +1,18 @@
+# Archivos locales que no forman parte de la entrega.
+/INSUMOS*/
+/tmp/
+/*.pdf
+/*.txt
+/*.zip
+/*.html
+/*_files/
+node_modules/
+dist/
+.angular/
+test-results/
+playwright-report/
+*.log
+
+# Las evidencias publicadas son únicamente las capturas.
+/evidencias/*
+!/evidencias/0[1-8]-*.png
