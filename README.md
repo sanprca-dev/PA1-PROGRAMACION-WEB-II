@@ -129,7 +129,7 @@ La matriz resume la distribución de responsabilidades del equipo por actividad.
 
 ## 6. Video de exposición
 
-**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+**Video público de YouTube:** [https://youtu.be/j8Pv20APJe8]
 
 La exposición comprende el procedimiento, la solución desarrollada y las decisiones de las cuatro actividades, con la participación de los tres integrantes. El enlace se incorporará cuando el video esté publicado.
 
